@@ -13,5 +13,3 @@ Ok i'm starting to understund how it works.
 >>>>>>> readme-edits
 
 I'm working in a new version of GIT. Fepi-Version
-
-MODIFIED
